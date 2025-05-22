@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
   </head>
   <body>
     <!-- Навігація -->
     <header>
       <nav>
-        <h2>Web Studio</h2>
+        <a href="index.html"></a>
         Studio Portfolio Contacts
       </nav>
 
@@ -60,11 +60,11 @@
           height="260"
           src="img/Mark-Guerrero.jpg"
           alt="Mark-Guerrero"
-        />
+        >
         <h3>Mark Guerrero</h3>
         <p>Product Designer</p>
         <!-- Tom Ford -->
-        <img width="264" height="260" src="img/Tom-Ford.jpg" alt="Tom-Ford" />
+        <img width="264" height="260" src="img/Tom-Ford.jpg" alt="Tom-Ford">
         <h3>Tom Ford</h3>
         <p>Frontend Developer</p>
         <!-- Camila Garcia -->
@@ -73,16 +73,18 @@
           height="260"
           src="img/Camila-Garcia.jpg"
           alt="Camila-Garcia"
-        />
+        >
         <h3>Camila Garcia</h3>
         <p>Marketing</p>
         <!-- Daniel Wilson -->
+        width="264" height="260"
+
         <img
           width="264"
           height="260"
           src="img/Daniel-Wilson.jpg"
           alt="Daniel-Wilson"
-        />
+        >
         <h3>Daniel Wilson</h3>
         <p>UI Designer</p>
       </section>
